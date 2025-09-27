@@ -1,5 +1,11 @@
 # ATMS-523-Module-2
 
+## Description
+
+Module 2 notebooks and assignment by Sarah Henry.
+
+## Usage
+
 Install required libraries using the `environment.yml` file.  `mamba install environment.yml` then mamba activate `xarray-climate`.
 
 The Homework assignment can be completed in a new jupyter notebook that you commit to this repository.
@@ -18,3 +24,12 @@ Make sure you install software as we did in the check in:
    ```
 
    and use this environment when running the codes and for your homework.
+
+
+## References
+
+Hersbach, H., and Coauthors, 2020: The ERA5 global reanalysis. Quarterly Journal of the Royal Meteorological Society, 146, 1999–2049, https://doi.org/10.1002/qj.3803.
+
+## License
+
+[GNU General Public License v3.0](https://choosealicense.com/licenses/gpl-3.0/)
